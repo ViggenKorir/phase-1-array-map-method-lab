@@ -19,3 +19,6 @@ const titleCased = () => {
       .join(" ")
   );
 };
+
+console.log(tutorials)
+console.log(titleCased())
